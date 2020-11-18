@@ -1,0 +1,13 @@
+C:\Users\andre\ConsoleApplicationCinema\bin\Debug\netcoreapp3.1\ConsoleApplicationCinema.exe
+C:\Users\andre\ConsoleApplicationCinema\bin\Debug\netcoreapp3.1\ConsoleApplicationCinema.deps.json
+C:\Users\andre\ConsoleApplicationCinema\bin\Debug\netcoreapp3.1\ConsoleApplicationCinema.runtimeconfig.json
+C:\Users\andre\ConsoleApplicationCinema\bin\Debug\netcoreapp3.1\ConsoleApplicationCinema.runtimeconfig.dev.json
+C:\Users\andre\ConsoleApplicationCinema\bin\Debug\netcoreapp3.1\ConsoleApplicationCinema.dll
+C:\Users\andre\ConsoleApplicationCinema\bin\Debug\netcoreapp3.1\ConsoleApplicationCinema.pdb
+C:\Users\andre\ConsoleApplicationCinema\obj\Debug\netcoreapp3.1\ConsoleApplicationCinema.csprojAssemblyReference.cache
+C:\Users\andre\ConsoleApplicationCinema\obj\Debug\netcoreapp3.1\ConsoleApplicationCinema.csproj.CoreCompileInputs.cache
+C:\Users\andre\ConsoleApplicationCinema\obj\Debug\netcoreapp3.1\ConsoleApplicationCinema.AssemblyInfoInputs.cache
+C:\Users\andre\ConsoleApplicationCinema\obj\Debug\netcoreapp3.1\ConsoleApplicationCinema.AssemblyInfo.cs
+C:\Users\andre\ConsoleApplicationCinema\obj\Debug\netcoreapp3.1\ConsoleApplicationCinema.dll
+C:\Users\andre\ConsoleApplicationCinema\obj\Debug\netcoreapp3.1\ConsoleApplicationCinema.pdb
+C:\Users\andre\ConsoleApplicationCinema\obj\Debug\netcoreapp3.1\ConsoleApplicationCinema.genruntimeconfig.cache
